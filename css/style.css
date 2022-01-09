@@ -498,12 +498,12 @@ flex: 0 0 573px;
 }
 
 .section-advantages__bathtub {
-  background: url("/img/bathtub.svg");
+  background: url('../img/bathtub.svg');
   width: 64px;
 }
 
 .section-advantages__hanger {
-  background: url("/img/hanger.svg");
+  background: url("img/hanger.svg");
   width: 67px;
 }
 
