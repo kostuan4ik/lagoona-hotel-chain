@@ -498,7 +498,7 @@ flex: 0 0 573px;
 }
 
 .section-advantages__bathtub {
-  background: url('../img/bathtub.svg');
+  background: url(../img/bathtub.svg);
   width: 64px;
 }
 
