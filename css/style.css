@@ -513,27 +513,27 @@ flex: 0 0 573px;
 }
 
 .section-advantages__hotel-key {
-  background: url(img/hotel-key.svg);
+  background: url(../img/hotel-key.svg);
   width: 66px;
 }
 
 .section-advantages__parking {
-  background: url(img/parking.svg);
+  background: url(../img/parking.svg);
   width: 66px;
 }
 
 .section-advantages__reception {
-  background: url(img/reception.svg);
+  background: url(../img/reception.svg);
   width: 64px;
 }
 
 .section-advantages__security-box {
-  background: url(img/security-box.svg);
+  background: url(../img/security-box.svg);
   width: 67px;
 }
 
 .section-advantages__swimming-pool {
-  background: url(img/swimming-pool.svg);
+  background: url(../img/swimming-pool.svg);
   width: 64px;
 }
 
